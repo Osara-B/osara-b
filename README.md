@@ -1,12 +1,11 @@
 
 ## About Me:
-Final-year Software Engineering student at the University of Westminster (IIT) <br>
+Final-year Software Engineering student 
+Backend & ML Developer Experienced with Python, Java, SQL, and REST APIs <br>
 Reach me : osara922@gmail.com
 
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osara-bandara-174585253/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/osara-b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/osara-bandara-174585253/) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/osara-b)
 
 
 ## Tech Stack:
